@@ -1,6 +1,6 @@
 import numpy as np
 
-print ("Welcome to Tic-Tac-Toe")
+print("Welcome to Tic-Tac-Toe")
 repeat= "yes"
 winner=0
 while repeat == "yes":
